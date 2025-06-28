@@ -47,7 +47,7 @@ My plan of what i really need to do now is:
 
 
 
-
+![Image](https://github.com/user-attachments/assets/d34b37a3-3f95-486a-9d7e-c1679aa83ace)
 
 
 
