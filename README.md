@@ -44,6 +44,9 @@ I am Going to upload the files for the browser when i get it at least half worki
 To make this project me and some friends all worked togother as I found 3d models and edited them a little my friends scetched out designs. When the 3D models were done we started 3D printing them they arent done yet but they should be 
 soon. I coded up all the apps although im quit bad at python and the code looks AI coz i had to use AI to clean up all my code because it was past unreadable.
 
+
+![Image](https://github.com/user-attachments/assets/bcf1fd7f-fcc1-4da7-bd64-4d70c8cb91ab)
+
 Bad Sketch I made a little while ago. :)
  
 ![Image](https://github.com/user-attachments/assets/cfc9cfe9-8df0-42f0-bdea-fc3e8443c5fa)
