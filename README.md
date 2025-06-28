@@ -94,3 +94,9 @@ Bad Sketch I made a little while ago. :)
  
 ![Image](https://github.com/user-attachments/assets/cfc9cfe9-8df0-42f0-bdea-fc3e8443c5fa)
 
+
+
+
+
+
+I found the 3D model on scetchfab and then put it into blender to edit them to my needs.
