@@ -1,4 +1,5 @@
-Pip-Boy 2000 MK VI
+
+![Image](https://github.com/user-attachments/assets/45db8d0f-8137-4d40-81c7-af70332da434)
 
 
 This is all the resources im using to make a real life pipboy from fallout 76 (The Pip Boy 2000 MK IV).
