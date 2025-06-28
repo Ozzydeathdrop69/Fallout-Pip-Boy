@@ -96,6 +96,7 @@ Bad Sketch I made a little while ago. :)
 
 
 
+![Image](https://github.com/user-attachments/assets/11a0255c-1819-49ff-99a2-9ddf4708640c)
 
 
 
