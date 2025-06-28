@@ -6,7 +6,18 @@ When the project is done i will put some pictures of the real one on here.
 This is all the resources im using to make a real life pipboy from fallout 76 (The Pip Boy 2000 MK IV).
 This repo will contain al the 3d models i used as well (DISCLAIMER IM TERRIBLE AT MAKING 3D MODELS THESE ARE NOT MINE IF I FIND THE MODEL AGAIN I WILL UPDATE THE REPO TO GIVE CREDIT).
 
+I have been working on this project for the last few months now and it is really starting to come together that is why I have set up this repo as I have all the stuff I need to makde a simple fleshed out repo.
 
+My plan of what i really need to do now is:
+
+-Finsih off the Pip-Boy app (add more tabs and make some of the items interactive)
+-Fix the browser and give it the green lines even when searched so it always looks like its on a pip-boy
+-Put it on a rasberry piko (I dont know wheather it will run on there due to memory if not i will just use a normal rasberry pie)
+-Paint the 3D model when its done
+-connect the rasberry pie (piko or not) to a screen
+-add a trackpad to the design somewhere (like the ones on the steam deck)
+-implemnet a keyboard (like on the older phones so its small and can be hidden easily)
+-Implemet the browser into the app (so its like one of the STAT, INV, DATA, MAP, RADIO then like SEARCH or something)
 
 
 
