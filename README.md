@@ -1,10 +1,16 @@
 ![Image](https://github.com/user-attachments/assets/eb9a062a-add2-43a9-be70-14bc2ab9c38d)
 
 
-When the project is done i will put some pictures on here.
+When the project is done i will put some pictures of the real one on here.
 
 This is all the resources im using to make a real life pipboy from fallout 76 (The Pip Boy 2000 MK IV).
 This repo will contain al the 3d models i used as well (DISCLAIMER IM TERRIBLE AT MAKING 3D MODELS THESE ARE NOT MINE IF I FIND THE MODEL AGAIN I WILL UPDATE THE REPO TO GIVE CREDIT).
+
+
+ To make this project me and some friends all worked togother as I found 3d models and edited them a little my friends scetched out designs. When the 3D models were done we started 3D printing them they arent done yet but they should be 
+ soon. I coded up all the apps although im quit bad at python and the code looks AI coz i had to use AI to clean up all my code because it was past unreadable.
+
+
 
 ![Image](https://github.com/user-attachments/assets/a35c8b4a-fa9b-4c39-bc66-52d49f8cfaa0)
 (The Original)
