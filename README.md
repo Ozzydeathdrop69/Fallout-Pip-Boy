@@ -32,9 +32,7 @@ All of the stats can be changed in  the player_data.json file.
 
 
 I am slowly working on a duckduckgo based browser for the Pip-Boy but keep running into errors I will update the Repo as soon as i fix it.
-
-![Image](https://github.com/user-attachments/assets/10ff2767-7211-4d9a-b279-5cd3b22adbfc)
-
-
 For some reason when I search something only like the top 15% actually has duckduckgo and the rest is just the green lines.
 I am Going to upload the files for the browser when i get it at least half working.
+
+![Image](https://github.com/user-attachments/assets/10ff2767-7211-4d9a-b279-5cd3b22adbfc)
