@@ -101,3 +101,7 @@ Bad Sketch I made a little while ago. :)
 
 
 I found the 3D model on scetchfab and then put it into blender to edit them to my needs.
+
+
+Its basicly just a pip-boy in diffrent parts so its easier for 3d printing
+I dont have the images of the blender model now but I will put them up later or something 
