@@ -14,6 +14,8 @@ We Want it to be basicaly identical to the original.
 
 
 
+![Image](https://github.com/user-attachments/assets/11eb7feb-5be1-4e7a-ae5c-94a8054a8cdf)
+
 I have made a simple pipboy app that i will keep updating.
 It has a few tabs like the real one (STAT, INV, DATA, MAP, RADIO).
 All of the stats can be changed in  the player_data.json file.
