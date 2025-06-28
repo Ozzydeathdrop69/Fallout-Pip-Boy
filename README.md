@@ -37,3 +37,4 @@ I am slowly working on a duckduckgo based browser for the Pip-Boy but keep runni
 
 
 For some reason when I search something only like the top 15% actually has duckduckgo and the rest is just the green lines.
+I am Going to upload the files for the browser when i get it at least half working.
