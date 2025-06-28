@@ -8,12 +8,12 @@ This repo will contain al the 3d models i used as well (DISCLAIMER IM TERRIBLE A
 
 
 
-(The Original)
+
 
 We Want it to be basicaly identical to the original.
 
 ![Image](https://github.com/user-attachments/assets/a35c8b4a-fa9b-4c39-bc66-52d49f8cfaa0)
-
+(The Original)
 
 
 ![Image](https://github.com/user-attachments/assets/11eb7feb-5be1-4e7a-ae5c-94a8054a8cdf)
