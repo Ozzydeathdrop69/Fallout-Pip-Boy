@@ -23,7 +23,8 @@ It has a few tabs like the real one (STAT, INV, DATA, MAP, RADIO).
 All of the stats can be changed in  the player_data.json file.
 
 
-PIP BOY BROWSER (STILL VERY VERY BETA WILL NOT WORK PROPERLY YET)
+![Image](https://github.com/user-attachments/assets/ec4e8e76-967f-454b-ae08-d45763065a32) 
+(STILL VERY VERY BETA WILL NOT WORK PROPERLY YET)
 
 I am slowly working on a duckduckgo based browser for the Pip-Boy but keep running into errors I will update the Repo as soon as i fix it.
 
