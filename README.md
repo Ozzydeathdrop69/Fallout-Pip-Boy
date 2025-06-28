@@ -16,14 +16,14 @@ We Want it to be basicaly identical to the original.
 
 ![Image](https://github.com/user-attachments/assets/11eb7feb-5be1-4e7a-ae5c-94a8054a8cdf)
 
+![Image](https://github.com/user-attachments/assets/3f35b8d3-b4d7-4672-95e0-2ee928e7a855)
+
 I have made a simple pipboy app that i will keep updating.
 It has a few tabs like the real one (STAT, INV, DATA, MAP, RADIO).
 All of the stats can be changed in  the player_data.json file.
 
 
-![Image](https://github.com/user-attachments/assets/3f35b8d3-b4d7-4672-95e0-2ee928e7a855)
-
-
 PIP BOY BROWSER (STILL VERY VERY BETA WILL NOT WORK PROPERLY YET)
 
 I am slowly working on a duckduckgo based browser for the Pip-Boy but keep running into errors I will update the Repo as soon as i fix it.
+
