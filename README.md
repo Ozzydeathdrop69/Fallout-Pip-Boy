@@ -28,5 +28,8 @@ All of the stats can be changed in  the player_data.json file.
 
 (STILL VERY VERY BETA WILL NOT WORK PROPERLY YET)
 
+![Image](https://github.com/user-attachments/assets/674df798-5dec-4cf9-b17a-5e436763a483)
+
+
 I am slowly working on a duckduckgo based browser for the Pip-Boy but keep running into errors I will update the Repo as soon as i fix it.
 
