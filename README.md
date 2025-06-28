@@ -1,5 +1,4 @@
-
-![Image](https://github.com/user-attachments/assets/45db8d0f-8137-4d40-81c7-af70332da434)
+![Image](https://github.com/user-attachments/assets/eb9a062a-add2-43a9-be70-14bc2ab9c38d)
 
 
 When the project is done i will put some pictures on here.
