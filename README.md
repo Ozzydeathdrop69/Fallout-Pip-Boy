@@ -15,12 +15,11 @@ Bad Scetch I made a little while ago. :)
 ![Image](https://github.com/user-attachments/assets/cfc9cfe9-8df0-42f0-bdea-fc3e8443c5fa)
 
 
-
-![Image](https://github.com/user-attachments/assets/a35c8b4a-fa9b-4c39-bc66-52d49f8cfaa0)
 (The Original)
 
-
 We Want it to be basicaly identical to the original.
+
+![Image](https://github.com/user-attachments/assets/a35c8b4a-fa9b-4c39-bc66-52d49f8cfaa0)
 
 
 
