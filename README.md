@@ -47,6 +47,10 @@ My plan of what i really need to do now is:
 
 
 
+
+
+
+
 We Want it to be basicaly identical to the original.
 
 ![Image](https://github.com/user-attachments/assets/a35c8b4a-fa9b-4c39-bc66-52d49f8cfaa0)
