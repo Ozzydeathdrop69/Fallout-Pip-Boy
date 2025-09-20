@@ -3,7 +3,7 @@
 
 When the project is done i will put some pictures of the real one on here.
 
-This is all the resources im using to make a real life pipboy from fallout 76 (The Pip Boy 2000 MK IV).
+This is all the resources im using to make a real life pipboy from fallout 4 (The Pip Boy 3000 MK VI).
 This repo will contain al the 3d models i used as well (DISCLAIMER IM TERRIBLE AT MAKING 3D MODELS THESE ARE NOT MINE IF I FIND THE MODEL AGAIN I WILL UPDATE THE REPO TO GIVE CREDIT).
 
 I have been working on this project for the last few months now and it is really starting to come together that is why I have set up this repo as I have all the stuff I need to makde a simple fleshed out repo.
@@ -22,27 +22,15 @@ My plan of what i really need to do now is:
 
 
 
--Put it on a rasberry piko (I dont know wheather it will run on there due to memory if not i will just use a normal rasberry pie)
+-Put it on a rasberry pi 0 (or smth other will updatw when doing the electronics
 
 
 
--Paint the 3D model when its done
+-Paint the 3D model when its done (done in like 7 hours pics soon)
 
 
 
--connect the rasberry pie (piko or not) to a screen
-
-
-
--add a trackpad to the design somewhere (like the ones on the steam deck)
-
-
-
--implemnet a keyboard (like on the older phones so its small and can be hidden easily)
-
-
-
--Implemet the browser into the app (so its like one of the STAT, INV, DATA, MAP, RADIO then like SEARCH or something)
+-connect the rasberry pie to a screen (LCD idk size rn) 
 
 
 
@@ -71,7 +59,7 @@ The code is quite horrible it just contains alot of if statments lol im not real
 ![Image](https://github.com/user-attachments/assets/ec4e8e76-967f-454b-ae08-d45763065a32) 
 
 
-(STILL VERY VERY BETA WILL NOT WORK PROPERLY YET)
+(STILL VERY VERY BETA WILL NOT WORK PROPERLY YET) (AFTER ALOT OF DECIDING PROB WONT BE IN FINAL)
 
 ![Image](https://github.com/user-attachments/assets/674df798-5dec-4cf9-b17a-5e436763a483)
 
@@ -84,8 +72,7 @@ I am Going to upload the files for the browser when i get it at least half worki
 
 
 
-To make this project me and some friends all worked togother as I found 3d models and edited them a little my friends scetched out designs. When the 3D models were done we started 3D printing them they arent done yet but they should be 
-soon. I coded up all the apps although im quit bad at python and the code looks AI coz i had to use AI to clean up all my code because it was past unreadable.
+To make this project me and some friends all worked togother as I found 3d models and edited them a little my friends scetched out designs.I coded up all the apps although im quit bad at python and the code looks AI coz i had to use AI to clean up all my code because it was past unreadable.
 
 
 ![Image](https://github.com/user-attachments/assets/bcf1fd7f-fcc1-4da7-bd64-4d70c8cb91ab)
@@ -105,3 +92,8 @@ I found the 3D model on scetchfab and then put it into blender to edit them to m
 
 Its basicly just a pip-boy in diffrent parts so its easier for 3d printing
 I dont have the images of the blender model now but I will put them up later or something 
+
+
+
+
+Right here im gunna put the images of the pip boy when its printed
