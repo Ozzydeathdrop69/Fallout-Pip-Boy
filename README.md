@@ -42,7 +42,7 @@ My plan of what i really need to do now is:
 We Want it to be basicaly identical to the original.
 Its going to be difficult but we can rely heavily on a good paint job to make it look alot better
 
-![Image](https://github.com/user-attachments/assets/a35c8b4a-fa9b-4c39-bc66-52d49f8cfaa0)
+![Image](https://github.com/user-attachments/assets/ddd386dd-61d6-4921-96ef-de056e6fc476)
 (The Original)
 
 
