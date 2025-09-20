@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/eb9a062a-add2-43a9-be70-14bc2ab9c38d)
+<img width="1182" height="170" alt="Image" src="https://github.com/user-attachments/assets/0b40c793-fa33-494c-aaa9-f8ee7eb9a3a3" />
 
 
 When the project is done i will put some pictures of the real one on here.
