@@ -96,6 +96,9 @@ I unfortunately dont have the files i edited to suit my liking due to them being
 
 Here are the images before and during print
 
+<img width="520" height="156" alt="Image" src="https://github.com/user-attachments/assets/d3d067b9-926b-4f23-a2a3-b2123b48994e" />
+
+
 <img width="921" height="513" alt="Image" src="https://github.com/user-attachments/assets/46f800cb-2bd5-42b2-b0dd-6ef670303f84" />
 
 
