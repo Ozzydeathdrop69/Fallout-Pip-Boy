@@ -94,4 +94,15 @@ The files will also be here in the repo (They used the https://creativecommons.o
 
 I unfortunately dont have the files i edited to suit my liking due to them being done on the orca slicer and i just sent them to print rather than saving.
 
+Here are the images before and during print
+
+![Image](https://github.com/user-attachments/assets/13c08240-1403-4044-a960-65d0bb4af7a0)
+
+<img width="918" height="930" alt="Image" src="https://github.com/user-attachments/assets/ebbbdf36-4395-41aa-a2f7-5d0135020a9f" />
+
+<img width="792" height="930" alt="Image" src="https://github.com/user-attachments/assets/c8ff8cf6-7db8-4ca1-b232-7aa99e79b8cc" />
+
+
+
+
 Right here im gunna put the images of the pip boy when its printed
