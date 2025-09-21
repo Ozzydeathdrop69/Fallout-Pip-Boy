@@ -101,7 +101,7 @@ Here are the images before and during print
 
 <img width="921" height="513" alt="Image" src="https://github.com/user-attachments/assets/46f800cb-2bd5-42b2-b0dd-6ef670303f84" />
 
-This is the image of the orca slicer with some parts of the pip-boy on.
+The print went really well as seen here about 85% into one of the plates
 
 
 <img width="880" height="156" alt="Image" src="https://github.com/user-attachments/assets/81464416-36f1-47c8-ab85-c63da491b796" />
@@ -109,6 +109,7 @@ This is the image of the orca slicer with some parts of the pip-boy on.
 
 <img width="918" height="930" alt="Image" src="https://github.com/user-attachments/assets/ebbbdf36-4395-41aa-a2f7-5d0135020a9f" />
 
+This is the image of the orca slicer with some parts of the pip-boy on.
 
 Right here im gunna put the images of the pip boy when its printed
 
