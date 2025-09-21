@@ -50,7 +50,7 @@ Its going to be difficult but we can rely heavily on a good paint job to make it
 
 ![Image](https://github.com/user-attachments/assets/3f35b8d3-b4d7-4672-95e0-2ee928e7a855)
 
-I have made a simple pipboy app that i will keep updating.
+I have made a simple pipboy app that i will keep updating. (Giant update soon)
 It has a few tabs like the real one (STAT, INV, DATA, MAP, RADIO).
 All of the stats can be changed in  the player_data.json file.
 The code is quite horrible it just contains alot of if statments lol im not really a python developer im more of a game dev but I said that I would do it for the group. On the map page if you press on the actual map with the mouse you can drag it around. Also when you are on the INV tab you can use arrow up and down to scroll through items.
