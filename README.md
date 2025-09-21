@@ -99,7 +99,7 @@ Here are the images before and during print
 <img width="921" height="513" alt="Image" src="https://github.com/user-attachments/assets/46f800cb-2bd5-42b2-b0dd-6ef670303f84" />
 
 
-
+<img width="880" height="156" alt="Image" src="https://github.com/user-attachments/assets/81464416-36f1-47c8-ab85-c63da491b796" />
 
 
 Right here im gunna put the images of the pip boy when its printed
