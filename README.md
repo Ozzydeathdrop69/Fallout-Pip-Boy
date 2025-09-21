@@ -93,13 +93,11 @@ Bad Sketch I made a little while ago. :)
 
 
 
-I found the 3D model on scetchfab and then put it into blender to edit them to my needs.
+The person who made the 3d models website is here http://ytec3d.com/pip-boy-3000-mark-iv/
+go support them as they put aload of time and effort into these.
 
+The files will also be here in the repo (They used the https://creativecommons.org/licenses/by/4.0/ license alowing me to put them here as well) and ill put the Thingverse link here https://www.thingiverse.com/thing:2301843
 
-Its basicly just a pip-boy in diffrent parts so its easier for 3d printing
-I dont have the images of the blender model now but I will put them up later or something 
-
-
-
+I unfortunately dont have the files i edited to suit my liking due to them being done on the orca slicer and i just sent them to print rather than saving.
 
 Right here im gunna put the images of the pip boy when its printed
