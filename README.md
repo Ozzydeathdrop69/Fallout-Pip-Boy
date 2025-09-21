@@ -81,17 +81,13 @@ To make this project me and some friends all worked togother as I found 3d model
 
 ![Image](https://github.com/user-attachments/assets/bcf1fd7f-fcc1-4da7-bd64-4d70c8cb91ab)
 
-Bad Sketch I made a little while ago. :)
- 
-![Image](https://github.com/user-attachments/assets/cfc9cfe9-8df0-42f0-bdea-fc3e8443c5fa)
-
 
 
 ![Image](https://github.com/user-attachments/assets/11a0255c-1819-49ff-99a2-9ddf4708640c)
 
 
 
-The person who made the 3d models website is here http://ytec3d.com/pip-boy-3000-mark-iv/
+The person who made the 3d models website is here http://ytec3d.com/pip-boy-3000-mark-iv/  and here  https://www.youtube.com/@ytec3d/videos
 go support them as they put aload of time and effort into these.
 
 The files will also be here in the repo (They used the https://creativecommons.org/licenses/by/4.0/ license alowing me to put them here as well) and ill put the Thingverse link here https://www.thingiverse.com/thing:2301843
