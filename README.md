@@ -96,10 +96,7 @@ I unfortunately dont have the files i edited to suit my liking due to them being
 
 Here are the images before and during print
 
-![Image](https://github.com/user-attachments/assets/13c08240-1403-4044-a960-65d0bb4af7a0)
-
-<img width="918" height="930" alt="Image" src="https://github.com/user-attachments/assets/ebbbdf36-4395-41aa-a2f7-5d0135020a9f" />    <img width="792" height="930" alt="Image" src="https://github.com/user-attachments/assets/c8ff8cf6-7db8-4ca1-b232-7aa99e79b8cc" />
-
+<img width="921" height="513" alt="Image" src="https://github.com/user-attachments/assets/46f800cb-2bd5-42b2-b0dd-6ef670303f84" />
 
 
 
