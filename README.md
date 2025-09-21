@@ -1,6 +1,9 @@
 <img width="1182" height="170" alt="Image" src="https://github.com/user-attachments/assets/0b40c793-fa33-494c-aaa9-f8ee7eb9a3a3" />
 
 
+
+THIS REPO LOOKS ALOT BETTER IN DARK MODE AS FOR THE ACII ART IS A IMAGE DUE TO THE FORMATING BREAK IT
+
 When the project is done i will put some pictures of the real one on here.
 
 This is all the resources im using to make a real life pipboy from fallout 4 (The Pip Boy 3000 MK VI).
